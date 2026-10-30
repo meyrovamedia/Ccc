@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix NEXORA - Contemporary Menswear \u0026 Fashion Store",
+  "description": "Everyday, elevated. Premium men\u0027s clothing and contemporary fashion storefront.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
